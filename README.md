@@ -1,3 +1,3 @@
 # gitskills
 Creating a new branch is quick AND simple.
-create a new branch dev
+844443b (fix bug 101)
